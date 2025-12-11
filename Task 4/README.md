@@ -1,6 +1,6 @@
 # Result
 
-I edited the given website’s HTML so that the background color changes with the temperature, ligth blue (<20), blue (>=20 && <30), orange (>=30).
+I edited the given website’s HTML so that the background color changes (with fade effect) with the temperature, ligth blue (<20), blue (>=20 && <30), orange (>=30).
 
 <table>
   <tr>
